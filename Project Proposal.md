@@ -19,7 +19,7 @@ I am looking to work for Hasbro, the toy company, specifically in the boardgames
 *What dataset(s) do you plan to use, and how will you obtain the data?*
 
 I will use data from Board Games Geek, a user forum for ranking and discussing board games.
-Kaggle hosts the data [here](https://www.kaggle.com/mrpantherson/board-game-data)
+I scraped then crawled BGG's API for the data, which I store [here](https://docs.google.com/spreadsheets/d/1N-DjsJLlzr47ExjPzLv-RoBvkZrRhgc6mOURbDNmqZw/edit?usp=sharing)
 
 It contains 4999 rows, 15 columns (~10 useful columns)
 
